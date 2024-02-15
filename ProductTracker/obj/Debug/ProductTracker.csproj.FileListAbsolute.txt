@@ -1,0 +1,10 @@
+E:\C#\ProductTracker\bin\Debug\ProductTracker.exe.config
+E:\C#\ProductTracker\bin\Debug\ProductTracker.exe
+E:\C#\ProductTracker\bin\Debug\ProductTracker.pdb
+E:\C#\ProductTracker\obj\Debug\ProductTracker.csproj.AssemblyReference.cache
+E:\C#\ProductTracker\obj\Debug\ProductTracker.Form1.resources
+E:\C#\ProductTracker\obj\Debug\ProductTracker.Properties.Resources.resources
+E:\C#\ProductTracker\obj\Debug\ProductTracker.csproj.GenerateResource.cache
+E:\C#\ProductTracker\obj\Debug\ProductTracker.csproj.CoreCompileInputs.cache
+E:\C#\ProductTracker\obj\Debug\ProductTracker.exe
+E:\C#\ProductTracker\obj\Debug\ProductTracker.pdb
